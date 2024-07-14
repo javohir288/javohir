@@ -1,5 +1,5 @@
 <!--Banner-->
-![javohir288 Banner Image](./banner1.png)
+![javohir288 Banner Image](./banner1.webp)
 
 <!--Night Owl image-->
 <div>
